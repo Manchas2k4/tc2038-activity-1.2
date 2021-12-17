@@ -12,10 +12,10 @@ En este repositorio encontrarás el archivo "main.cpp". En este archivo deberás
 // Date: 01/01/2021
 // =========================================================
 ```
-Implementa, <span style="text-decoration-line: underline;">de forma individual</span>, un solución para el conjunto de problemas que se describen a continuación.
+Implementa, <span style="text-decoration-line: underline;">en equipos de 2 personas (máximo)</span>, una solución para el problema que se describe a continuación.
 
 ## <span style="color: rgb(26, 99, 169);">**Descripción**</span>
-Utilizando las técnicas de **Programación Dinámica** y **Algoritmos Ávidos**, desarrollar en equipos de 2 personas, máximo, un programa en C++ que resuelva el problema de cambio de monedas.
+Utilizando las técnicas de **Programación Dinámica** y **Algoritmos Ávidos**, desarrollar un programa en C++ que resuelva el problema del cambio de monedas.
 
 ## <span style="color: rgb(26, 99, 169);">**Entrada**</span>
 El programa recibe número entero, *N*, seguido de *N* valores enteros que representan las diferentes denominaciones disponibles de las monedas. A continuación, se recibe *Q*, seguido de *Q* valores enteros que representan los cambios que se tienen calcular.
